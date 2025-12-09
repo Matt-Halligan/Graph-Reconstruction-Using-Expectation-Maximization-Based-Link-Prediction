@@ -18,11 +18,11 @@ The pipeline includes:
 
 ## Project Overview (Slides)
 
-![Slide 6](media/slide6.PNG)
+![Slide 6](media/Slide6.PNG)
 
-![Slide 8](media/slide8.PNG)
+![Slide 8](media/Slide8.PNG)
 
-![Slide 9](media/slide9.PNG)
+![Slide 9](media/Slide9.PNG)
 
 ## Full Presentation Recording
 
