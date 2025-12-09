@@ -18,14 +18,18 @@ The pipeline includes:
 
 ## Project Overview (Slides)
 
-![Slide 6](media/slide6.png)
-![Slide 8](media/slide8.png)
-![Slide 9](media/slide9.png)
+![Slide 6](media/slide6.PNG)
+
+![Slide 8](media/slide8.PNG)
+
+![Slide 9](media/slide9.PNG)
 
 ## Full Presentation Recording
 
 You can download the full presentation recording here:
+
 ![Halligan-IMDb Expectation Maximization Algorithm.pptx](Halligan-IMDb Expectation Maximization Algorithm.pptx)
+
 ![Halligan-IMDb Expectation Maximization Algorithm.mp4](media/Halligan-IMDb-EM-Graph-Analytics-Final.mp4)
 
 ## Files included
