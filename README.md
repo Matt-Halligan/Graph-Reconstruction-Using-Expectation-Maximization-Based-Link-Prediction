@@ -26,13 +26,11 @@ The pipeline includes:
 
 ## Full Presentation Recording
 
-You can download the full presentation recording here:
+You can download the full presentation recording here:  
+[IMDb Expectation Maximization Algorithm.pptx](media/Halligan-IMDb-Expectation-Maximization-Algorithm.pptx)
 
-![IMDb Expectation Maximization Algorithm.pptx](media/Halligan-IMDb-Expectation-Maximization-Algorithm.pptx)
-
-Full video presentation available for download: 
-![IMDb Expectation Maximization Algorithm.mp4](media/Halligan-IMDb-EM-Graph-Analytics-Final.mp4)
-
+Full video presentation available for download:  
+[IMDb Expectation Maximization Algorithm.mp4](media/Halligan-IMDb-EM-Graph-Analytics-Final.mp4)
 ## Files included
 •	EM_Analysis.ipynb — Jupyter notebook that performs the pipeline of data exploration to EM to scoring to evaluation.
 
